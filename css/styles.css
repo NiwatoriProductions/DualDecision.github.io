@@ -658,7 +658,7 @@ Features Slider
 .features-bg {
     position: relative;
     min-height: 400px;
-    background: url('../img/game-concept.jpg') no-repeat center center;
+    background: url('../img/game-concept-1.png') no-repeat center center;
     background-size: cover;
 }
 .features-img {
