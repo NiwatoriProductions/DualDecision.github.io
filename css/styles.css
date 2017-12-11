@@ -711,7 +711,8 @@ Features Slider
 Features List
 ========================================================================== */
 .features-list {
-    padding: 130px 0
+    padding: 130px 0;
+    background-color: #dce1e5;
 }
 .features-list h1 {
     margin: 0 0 10px 0;
@@ -941,11 +942,34 @@ Download Now
     font-size: 40px;
 }
 
+
+/* ==========================================================================
+Music
+========================================================================== */
+.music {
+    padding: 120px 0;
+    background-color: #fff;
+}
+.music h1 {
+    margin: 0 0 15px 0;
+    color: #000;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.music h3 {
+    margin: 0 0 15px 0;
+    color: #000;
+    font-weight: 50;
+    font-size: 15px;
+}
+
 /* ==========================================================================
 Footer
 ========================================================================== */
 footer {
     padding: 100px 0
+    background: #3f6184;
 }
 footer p {
     color: #c7cacc;
